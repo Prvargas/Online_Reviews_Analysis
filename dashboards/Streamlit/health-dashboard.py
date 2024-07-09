@@ -4,6 +4,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 import os
 
+
 #######################
 # Page Configuration
 st.set_page_config(page_title='Health Insurance Customer Reviews Dashboard', layout='wide')
@@ -15,7 +16,7 @@ def load_data():
     try:
         # Use os to construct the absolute path
         file_path = os.path.join(os.path.dirname(__file__), '03 - Updated_Synthetic_Merged_Data_with_Additional_Columns.xlsx')
-        df = pd.read_excel(file_path)
+        df = pd.read_excel(file_path, engine='openpyxl')
         return df
     except FileNotFoundError:
         st.error("The data file was not found. Please ensure the file is in the correct location.")
