@@ -2,17 +2,19 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
+import os
 
 #######################
 # Page Configuration
 st.set_page_config(page_title='Health Insurance Customer Reviews Dashboard', layout='wide')
 
+
 #######################
 # Load data
 def load_data():
     try:
-        # Correct relative path to the file
-        file_path = "dashboards/Streamlit/03 - Updated_Synthetic_Merged_Data_with_Additional_Columns.xlsx"
+        # Use os to construct the absolute path
+        file_path = os.path.join(os.path.dirname(__file__), '03 - Updated_Synthetic_Merged_Data_with_Additional_Columns.xlsx')
         df = pd.read_excel(file_path)
         return df
     except FileNotFoundError:
