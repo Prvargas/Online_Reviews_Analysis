@@ -120,5 +120,3 @@ Online_Reviews_Analysis/
 ├── requirements.txt
 └── README.md
 ```
-
-Feel free to modify and expand upon this README to better fit the specific details and requirements of your project.

@@ -9,13 +9,18 @@ st.set_page_config(page_title='Health Insurance Customer Reviews Dashboard', lay
 
 #######################
 # Load data
-@st.cache_data
 def load_data():
-    '''Load the customer data'''
-    df = pd.read_excel(r"03 - Updated_Synthetic_Merged_Data_with_Additional_Columns.xlsx")
-    return df
+    try:
+        # Correct relative path to the file
+        file_path = "dashboards/Streamlit/03 - Updated_Synthetic_Merged_Data_with_Additional_Columns.xlsx"
+        df = pd.read_excel(file_path)
+        return df
+    except FileNotFoundError:
+        st.error("The data file was not found. Please ensure the file is in the correct location.")
+        return None
 
 df = load_data()
+
 
 #######################
 # Sidebar Filters
@@ -113,8 +118,9 @@ def create_sentiment_donut_chart(data):
     Returns:
     Figure: A plotly Figure object
     """
-    # Calculate the percentage split for 'Sentiment'
-    sentiment_counts = data['Sentiment'].value_counts(normalize=True) * 100
+    # Calculate the percentage split and value counts for 'Sentiment'
+    sentiment_counts = data['Sentiment'].value_counts()
+    sentiment_percentages = sentiment_counts / sentiment_counts.sum() * 100
     sentiment_labels = sentiment_counts.index
     sentiment_values = sentiment_counts.values
 
@@ -128,9 +134,10 @@ def create_sentiment_donut_chart(data):
         values=sentiment_values,
         hole=.5,  # Make the hole larger to emphasize the donut shape
         marker=dict(colors=sentiment_colors),
-        textinfo='percent',  # Display both label and percentage
+        textinfo='percent',  # Display percentage
         textfont=dict(size=10),  # Adjust font size to fit inside the chart
         insidetextorientation='horizontal',  # Ensure text is horizontal
+        hovertemplate='%{label}: %{percent} <br>Count: %{value}<extra></extra>'  # Custom hover template with value counts on new line
     )])
 
     # Update layout for KPI card size and style
