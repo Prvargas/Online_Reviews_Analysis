@@ -1,0 +1,1001 @@
+Customer_ID,Plan_Type,Age,Gender,State,Region
+1,Individual and Family,42,Male,New Jersey,East
+2,Medicare,68,Male,Missouri,South
+3,Medicare,69,Male,Georgia,South
+4,Individual and Family,46,Other,Maryland,East
+5,Individual and Family,46,Female,California,West
+6,Individual and Family,51,Female,California,West
+7,Individual and Family,48,Male,Illinois,North
+8,Medicare,70,Male,Missouri,South
+9,Individual and Family,39,Male,New Jersey,East
+10,Medicare,77,Female,Florida,South
+11,Individual and Family,44,Female,Virginia,East
+12,Medicare,65,Female,Texas,South
+13,Medicare,65,Female,Illinois,North
+14,Individual and Family,27,Male,Utah,West
+15,Individual and Family,29,Male,Virginia,East
+16,Individual and Family,51,Female,Delaware,East
+17,Individual and Family,40,Female,Missouri,South
+18,Individual and Family,47,Female,Georgia,South
+19,Individual and Family,40,Female,Ohio,North
+20,Individual and Family,40,Male,Nevada,West
+21,Individual and Family,49,Male,Illinois,North
+22,Individual and Family,35,Female,New Jersey,East
+23,Individual and Family,41,Male,Kansas,North
+24,Individual and Family,35,Male,Georgia,South
+25,Individual and Family,36,Male,Texas,South
+26,Medicare,68,Female,Utah,West
+27,Individual and Family,42,Other,Arizona,West
+28,Individual and Family,35,Female,Utah,West
+29,Individual and Family,53,Female,Georgia,South
+30,Individual and Family,31,Female,Delaware,East
+31,Individual and Family,38,Female,Texas,South
+32,Individual and Family,36,Female,Nevada,West
+33,Individual and Family,54,Female,Utah,West
+34,Medicare,69,Female,North Carolina,South
+35,Medicare,65,Male,California,West
+36,Medicare,76,Male,Illinois,North
+37,Individual and Family,43,Female,Illinois,North
+38,Individual and Family,49,Male,Ohio,North
+39,Individual and Family,41,Male,North Carolina,South
+40,Individual and Family,51,Male,Kansas,North
+41,Individual and Family,35,Female,Kansas,North
+42,Individual and Family,54,Male,Arizona,West
+43,Individual and Family,63,Male,Indiana,North
+44,Medicare,80,Male,Illinois,North
+45,Individual and Family,36,Female,Kansas,North
+46,Individual and Family,55,Female,Kansas,North
+47,Individual and Family,56,Male,Ohio,North
+48,Individual and Family,35,Female,Utah,West
+49,Individual and Family,36,Female,Maryland,East
+50,Individual and Family,37,Female,Texas,South
+51,Medicare,80,Male,Missouri,South
+52,Medicare,65,Male,Utah,West
+53,Medicare,65,Female,Florida,South
+54,Medicare,65,Other,Nevada,West
+55,Individual and Family,40,Female,Georgia,South
+56,Medicare,71,Male,Indiana,North
+57,Individual and Family,56,Male,Maryland,East
+58,Individual and Family,30,Male,Kansas,North
+59,Individual and Family,50,Male,Utah,West
+60,Individual and Family,38,Female,Illinois,North
+61,Individual and Family,40,Male,Utah,West
+62,Individual and Family,47,Female,Illinois,North
+63,Medicare,74,Male,Ohio,North
+64,Individual and Family,44,Male,Arizona,West
+65,Individual and Family,42,Male,Maryland,East
+66,Individual and Family,45,Female,Nevada,West
+67,Individual and Family,43,Male,Virginia,East
+68,Medicare,69,Female,North Carolina,South
+69,Individual and Family,34,Female,Kansas,North
+70,Medicare,72,Male,Georgia,South
+71,Medicare,65,Female,Missouri,South
+72,Individual and Family,34,Male,Indiana,North
+73,Individual and Family,34,Female,Missouri,South
+74,Medicare,74,Female,Florida,South
+75,Medicare,80,Male,Maryland,East
+76,Medicare,65,Female,Ohio,North
+77,Medicare,78,Female,California,West
+78,Individual and Family,45,Male,Maryland,East
+79,Individual and Family,34,Female,Arizona,West
+80,Individual and Family,46,Male,Missouri,South
+81,Medicare,70,Female,Missouri,South
+82,Individual and Family,25,Male,Delaware,East
+83,Individual and Family,55,Male,Illinois,North
+84,Individual and Family,58,Male,Illinois,North
+85,Individual and Family,34,Female,California,West
+86,Individual and Family,36,Male,California,West
+87,Medicare,71,Male,New Jersey,East
+88,Individual and Family,43,Male,Georgia,South
+89,Medicare,65,Female,Indiana,North
+90,Individual and Family,60,Male,Utah,West
+91,Individual and Family,38,Male,Arizona,West
+92,Medicare,80,Female,Arizona,West
+93,Medicare,77,Female,Virginia,East
+94,Individual and Family,33,Male,Arizona,West
+95,Medicare,72,Female,Nevada,West
+96,Individual and Family,58,Other,Maryland,East
+97,Individual and Family,35,Male,Texas,South
+98,Individual and Family,42,Male,Delaware,East
+99,Individual and Family,40,Female,Ohio,North
+100,Individual and Family,52,Female,North Carolina,South
+101,Individual and Family,64,Male,New Jersey,East
+102,Individual and Family,35,Female,Nevada,West
+103,Individual and Family,35,Male,Nevada,West
+104,Individual and Family,50,Female,Arizona,West
+105,Medicare,75,Female,Missouri,South
+106,Individual and Family,58,Female,Delaware,East
+107,Individual and Family,46,Female,Florida,South
+108,Medicare,74,Other,Utah,West
+109,Individual and Family,46,Female,Kansas,North
+110,Individual and Family,51,Female,Utah,West
+111,Individual and Family,48,Female,Virginia,East
+112,Individual and Family,45,Female,Texas,South
+113,Medicare,77,Female,Utah,West
+114,Medicare,67,Male,Texas,South
+115,Individual and Family,54,Female,California,West
+116,Medicare,65,Female,North Carolina,South
+117,Medicare,66,Female,Arizona,West
+118,Individual and Family,41,Other,Texas,South
+119,Medicare,70,Female,Florida,South
+120,Individual and Family,32,Female,North Carolina,South
+121,Medicare,76,Male,Georgia,South
+122,Medicare,65,Male,Delaware,East
+123,Individual and Family,40,Female,Nevada,West
+124,Individual and Family,53,Female,Missouri,South
+125,Individual and Family,42,Male,North Carolina,South
+126,Individual and Family,40,Female,California,West
+127,Medicare,65,Male,Indiana,North
+128,Medicare,80,Male,Maryland,East
+129,Individual and Family,46,Female,Missouri,South
+130,Individual and Family,62,Female,Indiana,North
+131,Individual and Family,37,Female,Indiana,North
+132,Individual and Family,42,Male,Delaware,East
+133,Individual and Family,42,Female,New Jersey,East
+134,Individual and Family,56,Female,Indiana,North
+135,Medicare,71,Male,Virginia,East
+136,Individual and Family,43,Other,Arizona,West
+137,Individual and Family,46,Female,Georgia,South
+138,Medicare,66,Male,Utah,West
+139,Individual and Family,36,Female,Texas,South
+140,Medicare,78,Female,California,West
+141,Medicare,66,Female,Maryland,East
+142,Individual and Family,30,Female,Indiana,North
+143,Individual and Family,41,Female,Florida,South
+144,Individual and Family,33,Female,Florida,South
+145,Individual and Family,52,Male,Nevada,West
+146,Individual and Family,25,Male,Arizona,West
+147,Individual and Family,34,Male,Delaware,East
+148,Individual and Family,44,Female,Utah,West
+149,Individual and Family,56,Female,Florida,South
+150,Individual and Family,39,Female,Utah,West
+151,Medicare,65,Male,Arizona,West
+152,Individual and Family,59,Male,Georgia,South
+153,Individual and Family,26,Female,North Carolina,South
+154,Individual and Family,25,Female,Nevada,West
+155,Medicare,69,Female,Georgia,South
+156,Individual and Family,35,Female,Florida,South
+157,Individual and Family,30,Female,Florida,South
+158,Medicare,79,Male,Florida,South
+159,Individual and Family,42,Male,Florida,South
+160,Medicare,73,Female,Utah,West
+161,Individual and Family,27,Female,Maryland,East
+162,Individual and Family,49,Other,California,West
+163,Individual and Family,47,Female,Florida,South
+164,Individual and Family,39,Female,New Jersey,East
+165,Individual and Family,58,Female,Indiana,North
+166,Medicare,65,Female,Texas,South
+167,Individual and Family,25,Female,Indiana,North
+168,Individual and Family,33,Male,Virginia,East
+169,Individual and Family,40,Female,Utah,West
+170,Individual and Family,42,Female,Maryland,East
+171,Individual and Family,38,Male,Ohio,North
+172,Individual and Family,44,Female,Virginia,East
+173,Individual and Family,27,Male,Georgia,South
+174,Individual and Family,54,Male,California,West
+175,Individual and Family,39,Female,Utah,West
+176,Individual and Family,51,Male,Ohio,North
+177,Individual and Family,43,Female,Ohio,North
+178,Individual and Family,45,Other,Arizona,West
+179,Medicare,80,Female,Delaware,East
+180,Individual and Family,44,Other,Indiana,North
+181,Individual and Family,46,Male,Texas,South
+182,Individual and Family,53,Female,California,West
+183,Medicare,74,Female,Maryland,East
+184,Medicare,74,Other,Georgia,South
+185,Individual and Family,39,Male,Utah,West
+186,Individual and Family,54,Female,Florida,South
+187,Medicare,69,Male,New Jersey,East
+188,Individual and Family,58,Female,Indiana,North
+189,Individual and Family,40,Female,Ohio,North
+190,Individual and Family,26,Female,New Jersey,East
+191,Individual and Family,41,Female,Delaware,East
+192,Medicare,70,Male,Georgia,South
+193,Medicare,65,Female,Virginia,East
+194,Individual and Family,33,Male,Missouri,South
+195,Individual and Family,36,Female,Missouri,South
+196,Individual and Family,25,Female,North Carolina,South
+197,Medicare,68,Female,Virginia,East
+198,Medicare,70,Female,Georgia,South
+199,Medicare,65,Female,Nevada,West
+200,Medicare,65,Female,Missouri,South
+201,Individual and Family,48,Male,Maryland,East
+202,Individual and Family,44,Female,Virginia,East
+203,Individual and Family,30,Female,Arizona,West
+204,Medicare,78,Female,Florida,South
+205,Individual and Family,40,Male,Florida,South
+206,Individual and Family,28,Male,Maryland,East
+207,Individual and Family,55,Female,Ohio,North
+208,Individual and Family,49,Female,Texas,South
+209,Individual and Family,38,Female,Illinois,North
+210,Individual and Family,40,Other,Missouri,South
+211,Individual and Family,42,Female,Texas,South
+212,Individual and Family,25,Female,Florida,South
+213,Individual and Family,38,Female,Virginia,East
+214,Individual and Family,33,Female,New Jersey,East
+215,Medicare,80,Female,Indiana,North
+216,Individual and Family,37,Male,Utah,West
+217,Individual and Family,58,Female,North Carolina,South
+218,Medicare,66,Male,Ohio,North
+219,Individual and Family,34,Female,Delaware,East
+220,Medicare,65,Female,Missouri,South
+221,Individual and Family,54,Male,Illinois,North
+222,Individual and Family,49,Female,Nevada,West
+223,Individual and Family,41,Male,Missouri,South
+224,Individual and Family,34,Female,Utah,West
+225,Individual and Family,47,Female,Illinois,North
+226,Individual and Family,44,Other,Nevada,West
+227,Medicare,67,Female,Florida,South
+228,Individual and Family,46,Male,Ohio,North
+229,Medicare,72,Female,Arizona,West
+230,Individual and Family,35,Male,Georgia,South
+231,Medicare,68,Female,Kansas,North
+232,Individual and Family,42,Female,New Jersey,East
+233,Individual and Family,61,Male,California,West
+234,Individual and Family,33,Male,New Jersey,East
+235,Individual and Family,57,Male,Georgia,South
+236,Medicare,80,Male,Georgia,South
+237,Individual and Family,33,Male,Nevada,West
+238,Individual and Family,35,Female,Maryland,East
+239,Individual and Family,37,Female,Missouri,South
+240,Individual and Family,44,Female,Arizona,West
+241,Medicare,80,Female,Delaware,East
+242,Medicare,65,Female,New Jersey,East
+243,Medicare,77,Female,Delaware,East
+244,Individual and Family,61,Female,Maryland,East
+245,Individual and Family,57,Male,California,West
+246,Medicare,68,Female,Delaware,East
+247,Individual and Family,40,Female,Ohio,North
+248,Medicare,66,Female,Florida,South
+249,Medicare,74,Male,Nevada,West
+250,Medicare,80,Male,Indiana,North
+251,Individual and Family,37,Male,New Jersey,East
+252,Individual and Family,25,Female,Delaware,East
+253,Medicare,65,Female,Maryland,East
+254,Individual and Family,46,Female,California,West
+255,Individual and Family,35,Female,Maryland,East
+256,Individual and Family,56,Female,New Jersey,East
+257,Medicare,68,Female,New Jersey,East
+258,Individual and Family,25,Female,Texas,South
+259,Individual and Family,42,Other,California,West
+260,Individual and Family,50,Other,Nevada,West
+261,Individual and Family,57,Female,Ohio,North
+262,Medicare,65,Female,Georgia,South
+263,Individual and Family,51,Female,Missouri,South
+264,Individual and Family,40,Female,New Jersey,East
+265,Medicare,71,Male,Missouri,South
+266,Medicare,66,Female,North Carolina,South
+267,Individual and Family,47,Male,California,West
+268,Medicare,69,Female,Georgia,South
+269,Individual and Family,55,Other,Indiana,North
+270,Individual and Family,54,Female,Illinois,North
+271,Medicare,74,Male,Delaware,East
+272,Medicare,65,Female,Nevada,West
+273,Medicare,65,Male,Delaware,East
+274,Medicare,65,Female,Illinois,North
+275,Individual and Family,34,Female,North Carolina,South
+276,Individual and Family,33,Male,Virginia,East
+277,Medicare,65,Male,Missouri,South
+278,Individual and Family,52,Male,New Jersey,East
+279,Medicare,69,Male,Virginia,East
+280,Medicare,65,Male,Florida,South
+281,Medicare,71,Female,California,West
+282,Individual and Family,25,Female,North Carolina,South
+283,Individual and Family,51,Female,Indiana,North
+284,Individual and Family,25,Male,California,West
+285,Individual and Family,36,Female,Florida,South
+286,Individual and Family,29,Female,Kansas,North
+287,Individual and Family,27,Male,Ohio,North
+288,Individual and Family,52,Male,New Jersey,East
+289,Individual and Family,35,Female,North Carolina,South
+290,Individual and Family,43,Female,Kansas,North
+291,Individual and Family,40,Female,California,West
+292,Individual and Family,45,Female,Texas,South
+293,Medicare,65,Female,Maryland,East
+294,Individual and Family,27,Male,Kansas,North
+295,Individual and Family,50,Male,Georgia,South
+296,Individual and Family,35,Male,North Carolina,South
+297,Medicare,68,Female,Texas,South
+298,Individual and Family,36,Male,Kansas,North
+299,Individual and Family,55,Female,Kansas,North
+300,Individual and Family,49,Female,Missouri,South
+301,Individual and Family,37,Male,Indiana,North
+302,Individual and Family,37,Female,Maryland,East
+303,Individual and Family,37,Female,Arizona,West
+304,Individual and Family,61,Male,Georgia,South
+305,Medicare,74,Female,Arizona,West
+306,Medicare,71,Male,Texas,South
+307,Individual and Family,50,Female,Utah,West
+308,Individual and Family,42,Male,Indiana,North
+309,Medicare,66,Female,New Jersey,East
+310,Individual and Family,38,Female,Kansas,North
+311,Individual and Family,39,Male,Georgia,South
+312,Individual and Family,40,Female,Missouri,South
+313,Individual and Family,47,Female,Georgia,South
+314,Medicare,70,Female,Virginia,East
+315,Medicare,66,Female,Georgia,South
+316,Individual and Family,39,Female,Texas,South
+317,Individual and Family,41,Female,Nevada,West
+318,Individual and Family,25,Male,Arizona,West
+319,Individual and Family,49,Female,North Carolina,South
+320,Individual and Family,43,Female,Arizona,West
+321,Individual and Family,50,Female,North Carolina,South
+322,Medicare,65,Female,Utah,West
+323,Individual and Family,61,Male,Nevada,West
+324,Individual and Family,39,Female,Indiana,North
+325,Medicare,78,Other,Arizona,West
+326,Medicare,80,Female,Utah,West
+327,Individual and Family,46,Male,Arizona,West
+328,Individual and Family,29,Female,Virginia,East
+329,Individual and Family,34,Male,Illinois,North
+330,Individual and Family,59,Male,California,West
+331,Individual and Family,38,Female,Virginia,East
+332,Medicare,65,Female,Illinois,North
+333,Individual and Family,49,Female,Ohio,North
+334,Individual and Family,45,Male,Illinois,North
+335,Individual and Family,42,Female,Missouri,South
+336,Individual and Family,44,Female,Maryland,East
+337,Medicare,70,Male,Kansas,North
+338,Medicare,69,Female,Missouri,South
+339,Individual and Family,42,Other,Virginia,East
+340,Individual and Family,51,Male,Illinois,North
+341,Individual and Family,51,Male,Ohio,North
+342,Individual and Family,52,Male,Illinois,North
+343,Individual and Family,46,Female,Indiana,North
+344,Individual and Family,29,Female,New Jersey,East
+345,Individual and Family,56,Female,Delaware,East
+346,Individual and Family,29,Female,Ohio,North
+347,Individual and Family,43,Male,Utah,West
+348,Individual and Family,32,Male,Indiana,North
+349,Individual and Family,39,Female,Kansas,North
+350,Individual and Family,43,Female,Nevada,West
+351,Individual and Family,43,Other,Maryland,East
+352,Medicare,72,Female,Missouri,South
+353,Individual and Family,56,Female,Maryland,East
+354,Individual and Family,45,Female,Texas,South
+355,Individual and Family,38,Male,California,West
+356,Individual and Family,50,Male,Nevada,West
+357,Individual and Family,52,Male,California,West
+358,Individual and Family,28,Male,California,West
+359,Medicare,80,Female,Delaware,East
+360,Individual and Family,47,Female,Illinois,North
+361,Individual and Family,37,Male,Delaware,East
+362,Individual and Family,54,Female,Missouri,South
+363,Individual and Family,38,Male,Illinois,North
+364,Individual and Family,41,Male,Utah,West
+365,Medicare,68,Male,Virginia,East
+366,Individual and Family,40,Male,Delaware,East
+367,Medicare,65,Male,Indiana,North
+368,Medicare,70,Male,Maryland,East
+369,Individual and Family,56,Female,New Jersey,East
+370,Individual and Family,32,Female,Georgia,South
+371,Individual and Family,30,Female,Delaware,East
+372,Individual and Family,25,Male,North Carolina,South
+373,Individual and Family,34,Female,Florida,South
+374,Individual and Family,27,Male,Georgia,South
+375,Individual and Family,56,Female,Arizona,West
+376,Individual and Family,50,Male,New Jersey,East
+377,Medicare,70,Female,Nevada,West
+378,Individual and Family,63,Male,Maryland,East
+379,Medicare,65,Female,California,West
+380,Individual and Family,37,Female,Georgia,South
+381,Individual and Family,25,Female,Nevada,West
+382,Individual and Family,63,Male,Utah,West
+383,Individual and Family,26,Female,Utah,West
+384,Medicare,75,Female,Delaware,East
+385,Medicare,68,Other,Florida,South
+386,Medicare,65,Male,North Carolina,South
+387,Individual and Family,54,Other,Ohio,North
+388,Individual and Family,46,Female,Delaware,East
+389,Medicare,67,Female,Utah,West
+390,Medicare,67,Male,Texas,South
+391,Medicare,75,Female,Missouri,South
+392,Individual and Family,43,Male,Maryland,East
+393,Individual and Family,41,Female,North Carolina,South
+394,Medicare,65,Female,Utah,West
+395,Individual and Family,32,Female,Missouri,South
+396,Medicare,79,Female,Virginia,East
+397,Medicare,72,Female,California,West
+398,Individual and Family,39,Female,California,West
+399,Medicare,68,Other,Illinois,North
+400,Medicare,71,Female,Kansas,North
+401,Individual and Family,42,Male,Delaware,East
+402,Medicare,65,Male,Ohio,North
+403,Individual and Family,49,Male,Utah,West
+404,Medicare,66,Female,Arizona,West
+405,Individual and Family,30,Male,Delaware,East
+406,Medicare,73,Male,Maryland,East
+407,Individual and Family,30,Male,Illinois,North
+408,Individual and Family,38,Male,Arizona,West
+409,Medicare,66,Other,Missouri,South
+410,Individual and Family,30,Male,Illinois,North
+411,Individual and Family,41,Female,New Jersey,East
+412,Medicare,76,Male,Florida,South
+413,Medicare,65,Female,Nevada,West
+414,Individual and Family,43,Male,Virginia,East
+415,Individual and Family,25,Female,Kansas,North
+416,Individual and Family,44,Female,Delaware,East
+417,Individual and Family,40,Male,New Jersey,East
+418,Individual and Family,46,Male,Indiana,North
+419,Individual and Family,42,Female,New Jersey,East
+420,Medicare,80,Female,California,West
+421,Medicare,80,Male,Ohio,North
+422,Medicare,71,Female,Georgia,South
+423,Individual and Family,41,Male,Maryland,East
+424,Individual and Family,45,Female,North Carolina,South
+425,Individual and Family,40,Male,Georgia,South
+426,Individual and Family,40,Male,Delaware,East
+427,Individual and Family,33,Female,Virginia,East
+428,Medicare,75,Female,California,West
+429,Individual and Family,26,Female,Arizona,West
+430,Individual and Family,57,Male,Indiana,North
+431,Individual and Family,28,Female,Ohio,North
+432,Medicare,80,Male,Georgia,South
+433,Individual and Family,33,Female,North Carolina,South
+434,Individual and Family,49,Female,California,West
+435,Individual and Family,37,Female,Kansas,North
+436,Medicare,68,Female,Maryland,East
+437,Individual and Family,33,Male,Delaware,East
+438,Medicare,65,Male,California,West
+439,Medicare,67,Male,Indiana,North
+440,Individual and Family,61,Female,Georgia,South
+441,Individual and Family,28,Other,Georgia,South
+442,Medicare,68,Male,Nevada,West
+443,Individual and Family,46,Male,Illinois,North
+444,Individual and Family,44,Female,California,West
+445,Medicare,65,Female,Illinois,North
+446,Medicare,65,Female,Maryland,East
+447,Medicare,70,Male,Delaware,East
+448,Medicare,65,Female,Arizona,West
+449,Individual and Family,50,Female,Arizona,West
+450,Individual and Family,62,Female,Georgia,South
+451,Medicare,67,Male,Nevada,West
+452,Individual and Family,26,Male,New Jersey,East
+453,Individual and Family,39,Female,Utah,West
+454,Medicare,73,Female,Delaware,East
+455,Individual and Family,32,Male,New Jersey,East
+456,Individual and Family,56,Other,Georgia,South
+457,Individual and Family,57,Male,California,West
+458,Individual and Family,34,Male,Indiana,North
+459,Individual and Family,46,Male,Nevada,West
+460,Individual and Family,56,Male,Texas,South
+461,Individual and Family,36,Female,Delaware,East
+462,Individual and Family,38,Male,Georgia,South
+463,Medicare,74,Male,Kansas,North
+464,Individual and Family,30,Male,Arizona,West
+465,Medicare,72,Female,Kansas,North
+466,Individual and Family,28,Female,Utah,West
+467,Individual and Family,40,Female,New Jersey,East
+468,Medicare,65,Female,Nevada,West
+469,Individual and Family,42,Female,Nevada,West
+470,Medicare,65,Male,Missouri,South
+471,Individual and Family,43,Female,Indiana,North
+472,Medicare,66,Female,Ohio,North
+473,Individual and Family,25,Female,Utah,West
+474,Medicare,65,Male,Texas,South
+475,Individual and Family,52,Female,New Jersey,East
+476,Medicare,65,Female,Maryland,East
+477,Individual and Family,57,Male,Kansas,North
+478,Individual and Family,44,Female,Nevada,West
+479,Medicare,72,Male,Texas,South
+480,Individual and Family,39,Male,Florida,South
+481,Individual and Family,46,Female,Virginia,East
+482,Individual and Family,41,Female,Georgia,South
+483,Individual and Family,45,Male,Utah,West
+484,Individual and Family,31,Female,Maryland,East
+485,Individual and Family,42,Female,Missouri,South
+486,Medicare,65,Female,Virginia,East
+487,Individual and Family,39,Male,Indiana,North
+488,Individual and Family,31,Female,Florida,South
+489,Medicare,65,Male,Georgia,South
+490,Medicare,74,Male,Utah,West
+491,Individual and Family,51,Female,Delaware,East
+492,Individual and Family,46,Female,Ohio,North
+493,Individual and Family,29,Other,Texas,South
+494,Individual and Family,37,Female,Virginia,East
+495,Individual and Family,52,Male,Arizona,West
+496,Individual and Family,41,Female,Virginia,East
+497,Individual and Family,63,Female,North Carolina,South
+498,Individual and Family,44,Female,Virginia,East
+499,Medicare,80,Female,Ohio,North
+500,Medicare,73,Female,Indiana,North
+501,Individual and Family,41,Male,Nevada,West
+502,Individual and Family,38,Female,Ohio,North
+503,Individual and Family,47,Female,Arizona,West
+504,Medicare,70,Female,Indiana,North
+505,Individual and Family,32,Male,Kansas,North
+506,Individual and Family,27,Female,Maryland,East
+507,Medicare,80,Male,Arizona,West
+508,Medicare,72,Female,Virginia,East
+509,Medicare,65,Female,Illinois,North
+510,Medicare,71,Female,Delaware,East
+511,Individual and Family,44,Male,Georgia,South
+512,Individual and Family,64,Female,California,West
+513,Medicare,80,Female,Florida,South
+514,Medicare,65,Female,Missouri,South
+515,Individual and Family,41,Male,Missouri,South
+516,Individual and Family,39,Female,North Carolina,South
+517,Individual and Family,49,Female,Utah,West
+518,Medicare,66,Female,Virginia,East
+519,Medicare,73,Female,Utah,West
+520,Individual and Family,43,Male,Indiana,North
+521,Individual and Family,33,Male,Utah,West
+522,Individual and Family,50,Female,Delaware,East
+523,Medicare,80,Female,Utah,West
+524,Medicare,75,Female,Kansas,North
+525,Medicare,69,Female,New Jersey,East
+526,Individual and Family,31,Female,Delaware,East
+527,Individual and Family,40,Male,Virginia,East
+528,Individual and Family,40,Other,North Carolina,South
+529,Individual and Family,51,Other,Florida,South
+530,Medicare,80,Male,Utah,West
+531,Medicare,68,Male,Virginia,East
+532,Medicare,66,Male,Maryland,East
+533,Medicare,65,Female,Illinois,North
+534,Individual and Family,46,Male,California,West
+535,Medicare,73,Female,Maryland,East
+536,Medicare,65,Female,Illinois,North
+537,Medicare,70,Male,Delaware,East
+538,Individual and Family,37,Female,Illinois,North
+539,Individual and Family,34,Female,Indiana,North
+540,Individual and Family,38,Male,Arizona,West
+541,Medicare,67,Female,Arizona,West
+542,Individual and Family,45,Female,Georgia,South
+543,Individual and Family,39,Male,Illinois,North
+544,Individual and Family,45,Male,Nevada,West
+545,Individual and Family,41,Female,California,West
+546,Individual and Family,25,Female,Texas,South
+547,Individual and Family,31,Female,Texas,South
+548,Individual and Family,39,Male,Nevada,West
+549,Individual and Family,28,Male,Ohio,North
+550,Medicare,65,Female,Indiana,North
+551,Individual and Family,55,Female,Ohio,North
+552,Medicare,65,Female,Missouri,South
+553,Individual and Family,38,Other,Virginia,East
+554,Individual and Family,55,Female,Ohio,North
+555,Medicare,68,Male,Kansas,North
+556,Individual and Family,37,Female,Florida,South
+557,Individual and Family,34,Male,Utah,West
+558,Individual and Family,37,Male,Nevada,West
+559,Medicare,71,Male,Ohio,North
+560,Individual and Family,42,Female,Georgia,South
+561,Medicare,68,Male,Maryland,East
+562,Individual and Family,40,Male,Delaware,East
+563,Individual and Family,44,Female,Kansas,North
+564,Individual and Family,52,Male,Missouri,South
+565,Individual and Family,49,Male,Delaware,East
+566,Individual and Family,25,Male,North Carolina,South
+567,Individual and Family,25,Male,North Carolina,South
+568,Individual and Family,49,Female,Virginia,East
+569,Medicare,75,Female,Utah,West
+570,Individual and Family,38,Female,Indiana,North
+571,Individual and Family,28,Male,Florida,South
+572,Medicare,76,Male,New Jersey,East
+573,Individual and Family,45,Male,Texas,South
+574,Individual and Family,48,Female,North Carolina,South
+575,Medicare,67,Female,Georgia,South
+576,Medicare,80,Male,Georgia,South
+577,Individual and Family,35,Female,Texas,South
+578,Medicare,70,Female,North Carolina,South
+579,Individual and Family,25,Male,New Jersey,East
+580,Individual and Family,42,Female,California,West
+581,Individual and Family,40,Female,Texas,South
+582,Medicare,65,Female,Florida,South
+583,Individual and Family,41,Female,Illinois,North
+584,Individual and Family,30,Other,North Carolina,South
+585,Individual and Family,52,Female,California,West
+586,Individual and Family,38,Female,Kansas,North
+587,Individual and Family,40,Female,North Carolina,South
+588,Individual and Family,31,Male,Georgia,South
+589,Individual and Family,36,Female,Ohio,North
+590,Individual and Family,31,Male,Missouri,South
+591,Individual and Family,38,Female,Delaware,East
+592,Individual and Family,57,Female,Maryland,East
+593,Individual and Family,26,Female,Delaware,East
+594,Individual and Family,25,Male,North Carolina,South
+595,Medicare,65,Male,New Jersey,East
+596,Individual and Family,38,Female,New Jersey,East
+597,Individual and Family,33,Female,Delaware,East
+598,Individual and Family,50,Male,Indiana,North
+599,Individual and Family,34,Female,Ohio,North
+600,Individual and Family,58,Male,North Carolina,South
+601,Individual and Family,47,Female,Indiana,North
+602,Individual and Family,35,Male,Missouri,South
+603,Individual and Family,62,Male,North Carolina,South
+604,Individual and Family,34,Male,Texas,South
+605,Individual and Family,47,Male,Utah,West
+606,Individual and Family,43,Female,New Jersey,East
+607,Individual and Family,53,Male,Nevada,West
+608,Individual and Family,56,Female,Georgia,South
+609,Individual and Family,40,Female,Florida,South
+610,Individual and Family,32,Male,Ohio,North
+611,Individual and Family,45,Male,Kansas,North
+612,Medicare,65,Male,Maryland,East
+613,Individual and Family,60,Female,Delaware,East
+614,Individual and Family,41,Male,Georgia,South
+615,Medicare,74,Male,Arizona,West
+616,Medicare,80,Female,Kansas,North
+617,Individual and Family,27,Female,Virginia,East
+618,Individual and Family,30,Female,Virginia,East
+619,Medicare,67,Female,North Carolina,South
+620,Medicare,68,Other,California,West
+621,Individual and Family,30,Male,Illinois,North
+622,Individual and Family,45,Male,Ohio,North
+623,Individual and Family,52,Other,Delaware,East
+624,Individual and Family,47,Female,New Jersey,East
+625,Individual and Family,50,Male,Florida,South
+626,Individual and Family,32,Female,New Jersey,East
+627,Individual and Family,26,Male,Nevada,West
+628,Medicare,80,Female,California,West
+629,Individual and Family,37,Male,California,West
+630,Individual and Family,37,Female,Texas,South
+631,Medicare,77,Female,Virginia,East
+632,Medicare,66,Male,Indiana,North
+633,Individual and Family,45,Female,Ohio,North
+634,Individual and Family,62,Male,New Jersey,East
+635,Individual and Family,34,Female,Virginia,East
+636,Individual and Family,49,Male,Ohio,North
+637,Individual and Family,41,Female,Illinois,North
+638,Individual and Family,43,Female,Illinois,North
+639,Individual and Family,55,Female,Georgia,South
+640,Individual and Family,45,Female,Illinois,North
+641,Individual and Family,45,Female,California,West
+642,Individual and Family,51,Female,Kansas,North
+643,Individual and Family,36,Female,Texas,South
+644,Individual and Family,32,Female,Texas,South
+645,Individual and Family,30,Male,North Carolina,South
+646,Medicare,71,Male,Arizona,West
+647,Individual and Family,61,Female,New Jersey,East
+648,Individual and Family,29,Male,New Jersey,East
+649,Medicare,68,Male,North Carolina,South
+650,Individual and Family,37,Female,Kansas,North
+651,Individual and Family,43,Male,Indiana,North
+652,Individual and Family,48,Female,California,West
+653,Individual and Family,49,Female,North Carolina,South
+654,Medicare,74,Female,Missouri,South
+655,Individual and Family,38,Male,Delaware,East
+656,Individual and Family,43,Male,Missouri,South
+657,Individual and Family,38,Female,Ohio,North
+658,Individual and Family,56,Female,Kansas,North
+659,Individual and Family,45,Other,Missouri,South
+660,Individual and Family,47,Female,Nevada,West
+661,Individual and Family,47,Female,Kansas,North
+662,Medicare,71,Male,Florida,South
+663,Individual and Family,42,Male,Florida,South
+664,Individual and Family,27,Male,Georgia,South
+665,Individual and Family,44,Male,Arizona,West
+666,Individual and Family,33,Male,Virginia,East
+667,Individual and Family,35,Female,California,West
+668,Individual and Family,46,Female,Kansas,North
+669,Individual and Family,52,Female,Indiana,North
+670,Individual and Family,40,Other,Texas,South
+671,Individual and Family,43,Male,Georgia,South
+672,Medicare,65,Female,California,West
+673,Individual and Family,42,Male,Indiana,North
+674,Individual and Family,64,Female,Kansas,North
+675,Individual and Family,46,Female,Indiana,North
+676,Medicare,79,Female,Indiana,North
+677,Individual and Family,48,Female,Ohio,North
+678,Individual and Family,44,Male,Illinois,North
+679,Medicare,70,Female,Florida,South
+680,Medicare,72,Male,Missouri,South
+681,Medicare,65,Male,New Jersey,East
+682,Individual and Family,28,Female,Utah,West
+683,Individual and Family,38,Other,Indiana,North
+684,Individual and Family,31,Female,Illinois,North
+685,Medicare,65,Female,Georgia,South
+686,Individual and Family,46,Female,Delaware,East
+687,Individual and Family,57,Male,New Jersey,East
+688,Individual and Family,44,Female,Texas,South
+689,Medicare,78,Female,Missouri,South
+690,Individual and Family,44,Female,Utah,West
+691,Individual and Family,52,Female,North Carolina,South
+692,Individual and Family,34,Male,Kansas,North
+693,Individual and Family,39,Female,Delaware,East
+694,Individual and Family,40,Female,Indiana,North
+695,Individual and Family,32,Female,Indiana,North
+696,Individual and Family,46,Female,Ohio,North
+697,Individual and Family,39,Male,California,West
+698,Individual and Family,44,Female,Missouri,South
+699,Individual and Family,31,Other,Maryland,East
+700,Individual and Family,36,Female,Utah,West
+701,Individual and Family,47,Female,Maryland,East
+702,Individual and Family,36,Male,Utah,West
+703,Individual and Family,57,Female,Nevada,West
+704,Individual and Family,36,Male,Missouri,South
+705,Individual and Family,42,Other,Ohio,North
+706,Medicare,72,Female,New Jersey,East
+707,Individual and Family,26,Female,Indiana,North
+708,Medicare,69,Male,Texas,South
+709,Individual and Family,25,Female,Utah,West
+710,Individual and Family,53,Female,Kansas,North
+711,Medicare,65,Female,Missouri,South
+712,Individual and Family,64,Female,Florida,South
+713,Individual and Family,34,Male,Texas,South
+714,Individual and Family,42,Female,Ohio,North
+715,Individual and Family,55,Female,Arizona,West
+716,Medicare,73,Male,Utah,West
+717,Medicare,65,Female,Missouri,South
+718,Medicare,75,Female,Delaware,East
+719,Individual and Family,50,Male,Georgia,South
+720,Medicare,77,Female,Maryland,East
+721,Medicare,65,Male,North Carolina,South
+722,Individual and Family,34,Male,Utah,West
+723,Individual and Family,32,Female,California,West
+724,Medicare,67,Female,New Jersey,East
+725,Individual and Family,38,Female,Illinois,North
+726,Medicare,70,Female,North Carolina,South
+727,Individual and Family,47,Male,Kansas,North
+728,Medicare,80,Male,New Jersey,East
+729,Individual and Family,41,Female,California,West
+730,Individual and Family,55,Male,Maryland,East
+731,Individual and Family,29,Male,Texas,South
+732,Medicare,80,Other,California,West
+733,Individual and Family,33,Female,Arizona,West
+734,Individual and Family,25,Female,Missouri,South
+735,Individual and Family,39,Female,California,West
+736,Medicare,72,Other,New Jersey,East
+737,Individual and Family,55,Female,Kansas,North
+738,Medicare,67,Male,Georgia,South
+739,Individual and Family,30,Female,Arizona,West
+740,Individual and Family,59,Female,Texas,South
+741,Individual and Family,52,Female,Illinois,North
+742,Individual and Family,46,Other,New Jersey,East
+743,Medicare,68,Female,Kansas,North
+744,Individual and Family,30,Male,Nevada,West
+745,Individual and Family,36,Female,Arizona,West
+746,Medicare,66,Female,North Carolina,South
+747,Individual and Family,59,Female,Arizona,West
+748,Individual and Family,55,Female,Kansas,North
+749,Medicare,65,Female,Georgia,South
+750,Individual and Family,29,Female,Virginia,East
+751,Individual and Family,41,Female,Kansas,North
+752,Medicare,65,Female,Missouri,South
+753,Individual and Family,43,Other,California,West
+754,Individual and Family,39,Male,Maryland,East
+755,Individual and Family,35,Female,Delaware,East
+756,Medicare,74,Male,Indiana,North
+757,Individual and Family,45,Male,Texas,South
+758,Individual and Family,35,Female,Delaware,East
+759,Medicare,76,Male,Ohio,North
+760,Medicare,72,Male,California,West
+761,Individual and Family,40,Female,Ohio,North
+762,Individual and Family,58,Female,North Carolina,South
+763,Individual and Family,57,Other,Utah,West
+764,Medicare,76,Female,Kansas,North
+765,Individual and Family,34,Female,Indiana,North
+766,Individual and Family,45,Female,North Carolina,South
+767,Medicare,80,Female,Delaware,East
+768,Medicare,65,Male,Virginia,East
+769,Individual and Family,48,Male,Ohio,North
+770,Medicare,65,Other,Illinois,North
+771,Individual and Family,39,Female,Kansas,North
+772,Medicare,71,Female,Georgia,South
+773,Individual and Family,31,Female,Kansas,North
+774,Individual and Family,32,Female,California,West
+775,Medicare,76,Female,Texas,South
+776,Individual and Family,44,Other,New Jersey,East
+777,Individual and Family,49,Male,Virginia,East
+778,Medicare,80,Female,Arizona,West
+779,Medicare,65,Male,Texas,South
+780,Individual and Family,37,Female,Ohio,North
+781,Individual and Family,40,Female,Utah,West
+782,Individual and Family,33,Male,Maryland,East
+783,Individual and Family,25,Female,Arizona,West
+784,Individual and Family,49,Other,Virginia,East
+785,Individual and Family,47,Male,Nevada,West
+786,Medicare,79,Female,Georgia,South
+787,Individual and Family,41,Male,Missouri,South
+788,Individual and Family,45,Female,Illinois,North
+789,Individual and Family,25,Female,Nevada,West
+790,Medicare,80,Female,Arizona,West
+791,Individual and Family,48,Female,Texas,South
+792,Individual and Family,27,Male,Ohio,North
+793,Individual and Family,43,Female,Kansas,North
+794,Individual and Family,26,Male,Missouri,South
+795,Individual and Family,45,Male,Maryland,East
+796,Medicare,77,Female,Virginia,East
+797,Medicare,72,Male,Maryland,East
+798,Individual and Family,52,Female,Delaware,East
+799,Individual and Family,33,Female,North Carolina,South
+800,Medicare,70,Female,New Jersey,East
+801,Medicare,71,Female,Missouri,South
+802,Individual and Family,51,Female,Virginia,East
+803,Individual and Family,30,Male,Virginia,East
+804,Individual and Family,41,Female,North Carolina,South
+805,Individual and Family,44,Female,Florida,South
+806,Medicare,69,Other,Indiana,North
+807,Medicare,73,Male,Ohio,North
+808,Medicare,80,Male,Indiana,North
+809,Individual and Family,32,Female,Kansas,North
+810,Individual and Family,41,Male,Arizona,West
+811,Medicare,75,Male,Florida,South
+812,Medicare,74,Male,New Jersey,East
+813,Individual and Family,44,Male,Delaware,East
+814,Medicare,80,Female,Nevada,West
+815,Medicare,78,Female,Illinois,North
+816,Individual and Family,30,Female,North Carolina,South
+817,Individual and Family,46,Female,Florida,South
+818,Individual and Family,61,Male,Utah,West
+819,Individual and Family,40,Female,Indiana,North
+820,Individual and Family,33,Other,North Carolina,South
+821,Medicare,65,Other,Arizona,West
+822,Individual and Family,54,Female,Indiana,North
+823,Individual and Family,34,Female,New Jersey,East
+824,Individual and Family,32,Male,Indiana,North
+825,Individual and Family,35,Other,Indiana,North
+826,Medicare,80,Female,Missouri,South
+827,Individual and Family,41,Female,Utah,West
+828,Individual and Family,56,Female,Kansas,North
+829,Medicare,65,Male,Maryland,East
+830,Individual and Family,37,Female,Maryland,East
+831,Individual and Family,37,Male,California,West
+832,Individual and Family,25,Female,Nevada,West
+833,Individual and Family,49,Female,Nevada,West
+834,Individual and Family,39,Female,Florida,South
+835,Individual and Family,38,Female,New Jersey,East
+836,Individual and Family,64,Female,Virginia,East
+837,Medicare,65,Female,California,West
+838,Individual and Family,32,Female,Nevada,West
+839,Individual and Family,36,Female,Texas,South
+840,Individual and Family,51,Female,Kansas,North
+841,Individual and Family,41,Other,Texas,South
+842,Individual and Family,26,Female,Arizona,West
+843,Individual and Family,49,Female,Missouri,South
+844,Medicare,80,Male,New Jersey,East
+845,Individual and Family,59,Other,Georgia,South
+846,Individual and Family,51,Female,Maryland,East
+847,Individual and Family,36,Male,Kansas,North
+848,Medicare,74,Male,Utah,West
+849,Individual and Family,41,Male,Ohio,North
+850,Individual and Family,49,Female,Nevada,West
+851,Individual and Family,45,Male,Nevada,West
+852,Medicare,67,Female,Georgia,South
+853,Individual and Family,34,Male,Utah,West
+854,Medicare,65,Male,North Carolina,South
+855,Individual and Family,37,Female,Georgia,South
+856,Individual and Family,36,Male,Nevada,West
+857,Individual and Family,30,Female,North Carolina,South
+858,Individual and Family,44,Male,Delaware,East
+859,Individual and Family,61,Female,Texas,South
+860,Individual and Family,29,Female,Indiana,North
+861,Medicare,65,Female,Indiana,North
+862,Individual and Family,54,Other,Illinois,North
+863,Individual and Family,39,Female,Delaware,East
+864,Individual and Family,45,Female,Nevada,West
+865,Individual and Family,29,Female,Indiana,North
+866,Individual and Family,44,Male,Georgia,South
+867,Individual and Family,38,Female,Kansas,North
+868,Individual and Family,50,Female,Virginia,East
+869,Medicare,80,Female,Arizona,West
+870,Medicare,67,Female,Ohio,North
+871,Individual and Family,46,Female,Virginia,East
+872,Individual and Family,43,Female,Missouri,South
+873,Individual and Family,42,Male,New Jersey,East
+874,Individual and Family,36,Female,Utah,West
+875,Individual and Family,43,Female,Ohio,North
+876,Individual and Family,37,Female,Utah,West
+877,Medicare,69,Other,Kansas,North
+878,Individual and Family,53,Other,Missouri,South
+879,Individual and Family,30,Male,Virginia,East
+880,Individual and Family,51,Female,Utah,West
+881,Individual and Family,53,Female,Virginia,East
+882,Individual and Family,39,Female,Utah,West
+883,Individual and Family,25,Female,Kansas,North
+884,Individual and Family,34,Female,Illinois,North
+885,Medicare,68,Male,Illinois,North
+886,Individual and Family,40,Male,Maryland,East
+887,Individual and Family,30,Male,Florida,South
+888,Individual and Family,35,Female,New Jersey,East
+889,Individual and Family,48,Male,New Jersey,East
+890,Individual and Family,45,Female,Virginia,East
+891,Medicare,67,Female,Texas,South
+892,Medicare,65,Male,Maryland,East
+893,Medicare,65,Female,Indiana,North
+894,Individual and Family,31,Female,Missouri,South
+895,Individual and Family,56,Female,Utah,West
+896,Individual and Family,37,Male,New Jersey,East
+897,Individual and Family,52,Male,Indiana,North
+898,Medicare,72,Female,Texas,South
+899,Individual and Family,50,Male,Illinois,North
+900,Individual and Family,36,Female,New Jersey,East
+901,Individual and Family,44,Female,North Carolina,South
+902,Individual and Family,40,Male,Delaware,East
+903,Individual and Family,31,Male,California,West
+904,Individual and Family,43,Other,Illinois,North
+905,Individual and Family,28,Female,Georgia,South
+906,Medicare,68,Male,Utah,West
+907,Medicare,65,Male,Kansas,North
+908,Individual and Family,42,Male,North Carolina,South
+909,Individual and Family,43,Female,Missouri,South
+910,Individual and Family,37,Male,New Jersey,East
+911,Individual and Family,46,Male,Illinois,North
+912,Individual and Family,35,Female,Georgia,South
+913,Individual and Family,49,Female,Maryland,East
+914,Individual and Family,27,Female,Utah,West
+915,Individual and Family,41,Male,Ohio,North
+916,Individual and Family,59,Male,Kansas,North
+917,Individual and Family,30,Male,Ohio,North
+918,Medicare,67,Male,Indiana,North
+919,Medicare,69,Female,Georgia,South
+920,Individual and Family,42,Female,California,West
+921,Medicare,76,Female,North Carolina,South
+922,Individual and Family,45,Female,Kansas,North
+923,Medicare,78,Female,Arizona,West
+924,Medicare,80,Female,New Jersey,East
+925,Individual and Family,44,Female,California,West
+926,Individual and Family,38,Female,Indiana,North
+927,Individual and Family,47,Female,Virginia,East
+928,Individual and Family,59,Female,Ohio,North
+929,Individual and Family,39,Female,Indiana,North
+930,Individual and Family,30,Male,Delaware,East
+931,Individual and Family,51,Male,Illinois,North
+932,Medicare,80,Male,California,West
+933,Medicare,67,Female,Virginia,East
+934,Individual and Family,48,Male,New Jersey,East
+935,Individual and Family,35,Male,New Jersey,East
+936,Individual and Family,39,Male,Virginia,East
+937,Individual and Family,43,Female,Missouri,South
+938,Medicare,68,Male,Delaware,East
+939,Individual and Family,47,Male,Nevada,West
+940,Individual and Family,36,Male,New Jersey,East
+941,Individual and Family,45,Male,Virginia,East
+942,Individual and Family,37,Female,Florida,South
+943,Individual and Family,47,Female,Missouri,South
+944,Medicare,71,Female,North Carolina,South
+945,Individual and Family,31,Male,Illinois,North
+946,Individual and Family,51,Female,Illinois,North
+947,Individual and Family,35,Female,Maryland,East
+948,Medicare,80,Female,Texas,South
+949,Medicare,65,Female,California,West
+950,Individual and Family,58,Female,Florida,South
+951,Individual and Family,38,Male,Georgia,South
+952,Individual and Family,37,Male,Virginia,East
+953,Individual and Family,40,Female,Kansas,North
+954,Medicare,65,Female,Kansas,North
+955,Individual and Family,48,Female,New Jersey,East
+956,Individual and Family,25,Male,Kansas,North
+957,Individual and Family,29,Female,Delaware,East
+958,Individual and Family,29,Female,Texas,South
+959,Individual and Family,50,Female,Illinois,North
+960,Medicare,71,Male,Utah,West
+961,Individual and Family,39,Male,Kansas,North
+962,Individual and Family,38,Male,Utah,West
+963,Individual and Family,41,Male,Utah,West
+964,Individual and Family,52,Female,North Carolina,South
+965,Individual and Family,31,Female,Indiana,North
+966,Individual and Family,42,Female,Virginia,East
+967,Medicare,73,Female,Virginia,East
+968,Individual and Family,45,Female,New Jersey,East
+969,Individual and Family,42,Female,Nevada,West
+970,Individual and Family,50,Female,Missouri,South
+971,Individual and Family,25,Male,Indiana,North
+972,Medicare,69,Male,Ohio,North
+973,Medicare,70,Male,Arizona,West
+974,Individual and Family,25,Male,Virginia,East
+975,Individual and Family,45,Female,Florida,South
+976,Individual and Family,54,Male,Georgia,South
+977,Individual and Family,39,Female,Indiana,North
+978,Individual and Family,50,Male,Missouri,South
+979,Individual and Family,56,Female,Virginia,East
+980,Individual and Family,53,Other,Indiana,North
+981,Individual and Family,56,Female,Arizona,West
+982,Medicare,65,Female,Indiana,North
+983,Individual and Family,41,Male,North Carolina,South
+984,Individual and Family,25,Female,Maryland,East
+985,Medicare,79,Male,New Jersey,East
+986,Individual and Family,32,Male,Delaware,East
+987,Individual and Family,62,Male,Florida,South
+988,Individual and Family,38,Other,Florida,South
+989,Individual and Family,41,Other,Nevada,West
+990,Medicare,65,Female,Missouri,South
+991,Medicare,65,Male,Georgia,South
+992,Individual and Family,57,Male,Indiana,North
+993,Individual and Family,34,Male,Utah,West
+994,Individual and Family,42,Female,Arizona,West
+995,Individual and Family,33,Male,New Jersey,East
+996,Individual and Family,27,Other,California,West
+997,Medicare,65,Male,Indiana,North
+998,Individual and Family,40,Female,North Carolina,South
+999,Medicare,69,Female,Nevada,West
+1000,Individual and Family,33,Female,California,West
