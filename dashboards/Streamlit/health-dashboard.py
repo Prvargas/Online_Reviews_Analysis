@@ -69,15 +69,25 @@ def create_year_over_year_avg_rating_chart_with_indicator(data):
     Returns:
     Figure: A plotly Figure object
     """
-    # Calculate the year-over-year average rating
+    if data.empty:
+        st.warning("No data available for the selected filters.")
+        return go.Figure()
+
     yearly_avg_rating = data.groupby('Review_Year')['Rating'].mean().reset_index()
-
-    # Get the most recent year and the prior year average ratings
+    
+    if len(yearly_avg_rating) == 0:
+        st.warning("No rating data available for the selected filters.")
+        return go.Figure()
+    
     most_recent_year = yearly_avg_rating['Review_Year'].max()
-    prior_year = most_recent_year - 1
-
     most_recent_avg_rating = yearly_avg_rating.loc[yearly_avg_rating['Review_Year'] == most_recent_year, 'Rating'].values[0]
-    prior_year_avg_rating = yearly_avg_rating.loc[yearly_avg_rating['Review_Year'] == prior_year, 'Rating'].values[0]
+    
+    if len(yearly_avg_rating) > 1:
+        prior_year = most_recent_year - 1
+        prior_year_avg_rating = yearly_avg_rating.loc[yearly_avg_rating['Review_Year'] == prior_year, 'Rating'].values[0]
+    else:
+        prior_year_avg_rating = most_recent_avg_rating  # Use the same value if only one year is available
+
 
     # Create a bar chart
     fig = go.Figure()
