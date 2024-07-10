@@ -1,8 +1,0 @@
-[theme]
-base = "dark"
-
-[server]
-enableStaticServing = true
-headless = true
-port = $PORT
-enableCORS = false
